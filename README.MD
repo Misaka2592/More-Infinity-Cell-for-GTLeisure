@@ -1,6 +1,8 @@
 
 # MoreInfinityCell
 
+**版本：v0.0.2**
+
 ## 简介
 本项目为 KubeJS/GTLeisure 提供了更多“无限元件”相关配方，适用于 Mekanism 控制电路、各电压等级的通用电路板等。
 
