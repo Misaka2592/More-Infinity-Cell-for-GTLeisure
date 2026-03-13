@@ -107,7 +107,7 @@ ServerEvents.recipes(event => {
 
         { lvl: 'micro',       volt: 'iv',  n: 6},
         { lvl: 'nano',        volt: 'luv', n: 7},
-        { lvl: 'quantom',     volt: 'zpm', n: 8},
+        { lvl: 'quantum',     volt: 'zpm', n: 8},
         { lvl: 'crystal',     volt: 'uv',  n: 9},
         { lvl: 'wetware',     volt: 'uhv', n: 10},
 
