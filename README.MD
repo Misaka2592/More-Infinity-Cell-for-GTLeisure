@@ -15,12 +15,20 @@
 
 > ⚠️ 本项目不保证配方平衡，仅根据电压等级选取相应材料。
 
+## 依赖项
+### MOD
+- GTL Additions（需使用 fork 分支：[Dragonators/GTLAdditions](https://github.com/Dragonators/GTLAdditions)）
+### KubeJS
+- 产线撕裂者（thetornproductionline)
+- （可选）产线爆破（cxbp）
 ## 安装方法
 1. 将本项目文件分别放入 `kubejs` 目录下的 `client_scripts` 和 `server_scripts` 文件夹中，或是整体放入`kubejs`目录中。
 2. 重启游戏或服务器以完成配方重载与JEI注册。
 
 ## 使用说明
 - 直接在游戏内查看 JEI 配方即可。
+- 由于暂时没有添加 IV 至 MAX 电路主机无限元件的配方，建议配合其他拥有获取该无限元件的私货使用
+
 
 ## 许可
 见 LICENSE 文件。

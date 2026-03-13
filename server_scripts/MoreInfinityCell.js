@@ -1,5 +1,4 @@
 //requires: gtladditions
-//requires: gtl_extend
 //priority: -1
 
 ServerEvents.recipes(event => {
