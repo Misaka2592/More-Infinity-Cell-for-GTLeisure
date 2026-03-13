@@ -11,7 +11,7 @@
 - 新增 ULV 至 MAX 电压的通用电路板无限元件配方
 - 可拆解无尽反物质燃料棒无限元件，获得反物质、湮灭约束器、液态无尽无限元件
 - 通用电路板无限元件添加了 NBT 描述文本
-- 其他更新特性详见`CHANGELOG.MD`
+- 其他更新特性详见[CHANGELOG.MD](https://github.com/Misaka2592/More-Infinity-Cell-for-GTLeisure/blob/main/CHANGELOG.MD)
 
 > ⚠️ 本项目不保证配方平衡，仅根据电压等级选取相应材料。
 
