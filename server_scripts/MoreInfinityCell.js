@@ -158,7 +158,7 @@ ServerEvents.recipes(event => {
         .itemOutputs(inf_cell_i('gtceu:ancient_gold_coin'))
         .EUt(GTValues.VA[GTValues.ZPM])
         .duration(1234)
-        .stationResearch(b => b.researchStack('gtceu:neutronium_coin')
+        .stationResearch(b => b.researchStack('gtceu:neutronium_credit')
             .dataStack('gtceu:data_module')
             .EUt(GTValues.VA[GTValues.ZPM])
             .CWUt(32,1024)
